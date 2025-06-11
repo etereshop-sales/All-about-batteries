@@ -63,4 +63,45 @@ The following table lists recommended 18650 battery models with their typical cu
 * **Recommended Capacity:** `2500-3800 mAh`.  
   Be cautious: if you see capacities advertised as `4000-9000 mAh`, consider that this is likely a fake capacity.
 
+# How to Check the Charge of an 18650 Battery
+
+This guide explains how to accurately check the charge level of an 18650 lithium-ion battery using a multimeter. Some chargers may show an approximate charge level, but using a multimeter provides more reliable and precise results.
+
+## 1. What You’ll Need
+
+To check the battery charge, prepare the following:
+
+* **A digital multimeter**
+* The 18650 battery (installed or removed)
+
+## 2. Measurement Settings
+
+Set your multimeter to **DC voltage measurement mode**, usually labeled as:
+
+* **`20V` range** (This allows you to measure voltages from `0V` to `20V` with two digits after the decimal point.)
+
+## 3. How to Measure
+
+Follow these steps:
+
+### ➤ Step 1: Connect the Probes
+
+* Place the **red probe** to the battery's **positive terminal**.
+* Place the **black probe** to the battery's **negative terminal**.
+* It does not matter if the screen shows a negative value — the **absolute voltage** number is what matters.
+
+### ➤ Step 2: Read the Display
+
+Interpret the voltage according to the table below:
+
+| Voltage Range | Battery State            |
+| :------------ | :------------------------ |
+| `3.9V – 4.3V` | Fully charged             |
+| `3.4V – 3.8V` | Partially charged         |
+| `< 3.4V`      | Discharged                |
+| `< 2.5V`      | Deep discharge (replace)  |
+
+>  **Warning:** If the voltage is **below `2.5V`**, the battery is in **deep discharge mode** and should be **replaced** to avoid performance issues or safety risks.
+
+
 
