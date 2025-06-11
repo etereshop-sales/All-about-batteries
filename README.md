@@ -17,7 +17,6 @@ Follow these steps carefully to insert the battery:
 
 ### ➤ Step 1: Determine Polarity
 Identify the positive (`+`) and negative (`-`) poles of the contact pads.
-!(https://github.com/etereshop-sales/All-about-batteries/blob/main/battery_installation.jpeg)
 
 ### ➤ Step 2: Inspect the Battery for Damage
 Before installation, visually inspect the battery for any signs of damage.  
