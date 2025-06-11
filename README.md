@@ -59,7 +59,7 @@ The following table lists recommended 18650 battery models with their typical cu
 
 ### Characteristics
 * **Voltage:** `3.7 Volts`
-* **Current:** The rated current must be **not less than `10 Amperes`**. This parameter is the most crucial for performance and safety. Avoid buying batteries designed for flashlights, especially if the current rating is not explicitly indicated on the packaging.
+* **Current:** The rated current must be **not less than `15 Amperes`**. This parameter is the most crucial for performance and safety. Avoid buying batteries designed for flashlights, especially if the current rating is not explicitly indicated on the packaging.
 * **Recommended Capacity:** `2500-3800 mAh`.  
   Be cautious: if you see capacities advertised as `4000-9000 mAh`, consider that this is likely a fake capacity.
 
