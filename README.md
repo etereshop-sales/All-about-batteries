@@ -113,4 +113,3 @@ Purchase options:
 
 ---
 
-**Note:** This document has been compiled from the provided 18650 manual. Original images illustrating the battery and insertion steps were present in the source PDF, but cannot be directly embedded here.
