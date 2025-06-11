@@ -106,10 +106,4 @@ Purchase options:
 
 **Note:** Always monitor the charging process for LiPo batteries. Never leave them unattended while charging, and store them in a fireproof container if possible.
 
-### Where to Buy
-
-* This type of battery can reliably be purchased in **vape shops**.
-* It is always best to purchase batteries from well-known and reputable brands, such as **Samsung, LG, or Sony**.
-
----
 
