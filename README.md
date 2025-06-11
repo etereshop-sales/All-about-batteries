@@ -97,11 +97,6 @@ Purchase options:
 
 > **Tip:** Make sure the charger's input voltage matches your local electrical grid.
 
-## 4. How to Charge
-
-Refer to the official tutorial from ETERESHOP on how to use the Imax B6 or similar chargers:
-
-* [How to charge 18650 type batteries with Imax B6 charger](https://desk.zoho.com/portal/etereshop/en/kb/articles/how-to-charge-18650-type-batteries-with-imax-b6-charger-or-similar)
 
 ---
 
