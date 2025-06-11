@@ -27,6 +27,7 @@ Before installation, visually inspect the battery for any signs of damage.
 
 ### ➤ Step 3: Install the Battery
 Install the battery into the holder, ensuring you observe the correct polarity (`+` into `+`, `-` into `-`).
+
 ![Battery Installation](images/battery_installation.jpeg)
 
 ## 3. Recommended Battery Models
