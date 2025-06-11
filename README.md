@@ -63,6 +63,4 @@ The following table lists recommended 18650 battery models with their typical cu
 * **Recommended Capacity:** `2500-3800 mAh`.  
   Be cautious: if you see capacities advertised as `4000-9000 mAh`, consider that this is likely a fake capacity.
 
-## [One-Color Corset Battery Requirements and Recommendations](One-Color Corset Battery.md)
-
 
