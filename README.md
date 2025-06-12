@@ -83,6 +83,8 @@ To check the battery charge, prepare the following:
 * **A digital multimeter**
 * The 18650 battery (installed or removed)
 
+  ![Battery Installation](measure.jpeg)
+
 ## 2. Measurement Settings
 
 Set your multimeter to **DC voltage measurement mode**, usually labeled as:
@@ -112,5 +114,8 @@ Interpret the voltage according to the table below:
 
 >  **Warning:** If the voltage is **below `2.5V`**, the battery is in **deep discharge mode** and should be **replaced** to avoid performance issues or safety risks.
 
+> ![Battery Installation](measure.jpeg)
+
+The photo shows batteries that will soon need to be charged
 
 
