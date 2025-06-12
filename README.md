@@ -122,37 +122,47 @@ The photo shows batteries that will soon need to be charged
 
 This guide provides instructions for safely charging 18650 lithium-ion batteries using an Imax B6 charger or similar models. You can charge batteries without removing them from their battery boxes. Before starting, ensure all battery boxes are completely filled with batteries.
 
+![Box](battery_boxes.jpeg)
+
 The Imax B6 charger supports two primary charging methods:
 
 * Using a conventional splitter
-* Using a balancing cable
 
+
+  
+* Using a balancing cable
+  
 You will find the necessary types of cables in the repair kit and in the box with your Imax B6 charger.
 
 ## ➤ Step 1: Charging Batteries with a Conventional Splitter
 
 A typical splitter cable can accommodate a varying number of connected battery boxes.
 
+![Box](conventional_splitter.jpeg)
+
 ###  1.1. Connecting the Battery Boxes
 
 Connect the battery boxes into the designated connector on the splitter.
 
-*Plug for connecting battery boxes*
+![Box](plug_for_connecting.jpeg)
 
 ### 1.2. Connecting to the Charger
 
 Connect the charger plug to the Imax B6.
 
-*Charger plug*
+![Box](charger_plug.jpeg)
 
 After connecting the boxes, it will look like this:
+
+![Box](after_connecting.jpeg)
+
 **Attention!** Battery boxes with multiple outputs (connectors) must be connected to only one connector of the charging cable when charging!
 
 ### 1.3. Setting Imax B6 Parameters
 
 Before starting charging, you need to set the Imax B6 settings, taking into account the number of rechargeable batteries. This can be done using the control buttons on the charger.
 
-*Diagram of Imax B6 controls: "Changes battery type", "Decreases and increases values & switching charging types", "Select & start charging"*
+![Box](IMaxB6.jpg)
 
 * **Current:** For one battery, the required current is 1.5A. Do not exceed 6.0A when charging more than 4 batteries.
 * **Voltage:** The voltage must be set to 3.7V (1S).
@@ -164,22 +174,27 @@ After setting the desired parameters, long-press the Start button. The iMax will
 
 For an example of Imax settings for charging 4 batteries, see the video below:
 
-[Video](https://youtu.be/8Pjf7a8LbhY)
+[![Video](Preview.jpg)](https://youtu.be/8Pjf7a8LbhY)
 
 ## ➤ Step 2: Charging Batteries with a Balancing Cable
 
 The balance cable looks like this:
 
-*Charger plug, Balance connector, Plug for connecting battery boxes*
+![Box](balancing_cable.jpeg)
 
 The main difference from a conventional cable is that all cable outlets must be connected.
+
+![Box](balance_cable.jpeg)
 
 ### 2.1. Connecting the Balancing Connector
 
 The balancing connector must be connected to the required connector on Imax.
 
+![Box](required_connector.jpg)
+
 Connected battery boxes to Imax via a balancing cable will look like this:
 
+![Box](connected_battery.jpeg)
 
 **Attention!** Battery boxes with multiple outputs (connectors) must be connected to only one connector of the charging cable when charging!
 
@@ -197,5 +212,5 @@ After setting the desired settings, by long pressing the Start button, iMax will
 
 For example, in the video, you can see the Imax setting for charging batteries with four connectors:
 
-*Video demonstrating Imax settings for charging batteries with four connectors*
+[![Video](Preview2.jpg)](https://youtu.be/bVaBa6dQdzk)
 
