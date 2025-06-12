@@ -114,7 +114,7 @@ Interpret the voltage according to the table below:
 
 >  **Warning:** If the voltage is **below `2.5V`**, the battery is in **deep discharge mode** and should be **replaced** to avoid performance issues or safety risks.
 
-> ![Battery Installation](measure.jpeg)
+ ![Battery Installation](measure.jpeg)
 
 The photo shows batteries that will soon need to be charged
 
