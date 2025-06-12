@@ -83,7 +83,7 @@ To check the battery charge, prepare the following:
 * **A digital multimeter**
 * The 18650 battery (installed or removed)
 
-  ![Battery Installation](measure.jpeg)
+  ![Battery Installation](multimeter.jpg)
 
 ## 2. Measurement Settings
 
