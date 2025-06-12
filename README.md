@@ -62,6 +62,15 @@ The following table lists recommended 18650 battery models with their typical cu
 * **Current:** The rated current must be **not less than `15 Amperes`**. This parameter is the most crucial for performance and safety. Avoid buying batteries designed for flashlights, especially if the current rating is not explicitly indicated on the packaging.
 * **Recommended Capacity:** `2500-3800 mAh`.  
   Be cautious: if you see capacities advertised as `4000-9000 mAh`, consider that this is likely a fake capacity.
+  
+## Where to Buy the Battery
+
+You can purchase these batteries at most local hobby shops (recommended for warranty and assistance) or online from the following links:
+
+* [MORNGC 18650 Batteries – Amazon](https://www.amazon.com/MORNGC-Batteries-Suitable-Flashlight-Surveillance/dp/B0CPF3X9G6/)
+* [BENKIA 18650 Rechargeable 3500mAh – Amazon](https://www.amazon.com/BENKIA-Rechargeable-Battery-3500mAh-Flashlight/dp/B0CJJKH4P2/)
+* [LCLEBM 18650 3400mAh Battery – Amazon](https://www.amazon.com/LCLEBM-3400mAh-Battery-Spotlight-Flashlight/dp/B08H1NZLY7/)
+* [SOOCOOL 18650 25RS 2500mAh Battery – Amazon](https://www.amazon.com/SOOCOOL-Authentic-25RS-2500mAh-Rechargeable/dp/B0BNLQ4X8S/)
 
 # How to Check the Charge of an 18650 Battery
 
