@@ -66,6 +66,7 @@ The following table lists recommended 18650 battery models with their typical cu
 ## Where to Buy the Battery
 
 You can purchase these batteries at most local hobby shops (recommended for warranty and assistance) or online from the following links:
+Example of a store: [18650batterystore](https://www.18650batterystore.com/)
 
 * [LCLEBM 18650 3400mAh Battery – Amazon](https://www.amazon.com/LCLEBM-3400mAh-Battery-Spotlight-Flashlight/dp/B08H1NZLY7/)
 * [SOOCOOL 18650 25RS 2500mAh Battery – Amazon](https://www.amazon.com/SOOCOOL-Authentic-25RS-2500mAh-Rechargeable/dp/B0BNLQ4X8S/)
