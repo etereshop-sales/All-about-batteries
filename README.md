@@ -213,3 +213,127 @@ For example, in the video, you can see the Imax setting for charging batteries w
 
 [![Video](Preview2.jpg)](https://youtu.be/bVaBa6dQdzk)
 
+
+# How to Make a New Battery Box Yourself (DIY)
+
+If a battery box is lost or broken, you can make a new one yourself. It is easy, but please follow every step. **A mistake with polarity or voltage will burn the controller and LEDs, and this damage cannot be fixed by changing the battery.**
+
+> **The golden rule:** our products work only on **3.7 V** (one 18650 cell, or several 18650 cells connected **in parallel**).  
+> **Never** use 7.4 V, 11.1 V or 14.8 V battery boxes. They will burn the product.
+
+<details>
+<summary><b>Step 1. What to buy</b></summary>
+
+<br>
+
+**1. Battery holder (box) for 18650**
+
+Choose one of these two options:
+
+* **Option A — single-slot holder with wires (easiest).**  
+  One holder = one battery = 3.7 V. No soldering inside the holder is needed.  
+  Example: [DORHEA 1-slot 18650 holders with wires (Amazon)](https://www.amazon.com/Battery-Storage-Parallel-Plastic-Batteries/dp/B098SS1XYG)
+
+* **Option B — open 2-slot holder with solder pins (for 2 batteries).**  
+  Buy only the **open** type, where the metal contacts and solder pins are visible, so you can connect the batteries **in parallel** yourself.  
+  Example: [BestTong 2-slot open 18650 holder with solder pins (Amazon)](https://us.amazon.com/BestTong-Plastic-Battery-Holders-Contacts/dp/B072N8TKTS)
+
+> ⚠️ **Do NOT buy closed 2/3/4-slot boxes with a lid and ready wires** (often sold as "2S", "7.4V", "series").  
+> Inside they are already connected **in series** (7.4 V and more) and will burn your product.
+
+**2. Connector** — the same type as on your product (look at the plug on the costume / wings):
+
+* **2-pin connector** (small, usually white, with a latch):  
+  [JST SM 2-pin male/female pigtails (Amazon)](https://www.amazon.com/VANDESAIL-Connector-Adapter-Electrical-Female/dp/B0CQX8D3QR)
+* **T-plug connector** (T-shaped, usually red, for higher current):  
+  [T-plug (Deans) male/female pigtails, 14 AWG (Amazon)](https://www.amazon.com/Hiteuoms-Deans-Connector-Plug-Silicone/dp/B0DB64Z7KR)
+
+If you are not sure which connector you have — send us a photo, we will tell you.
+
+**3. Batteries** — good 18650 cells with high discharge current (see [Recommended Battery Models](#3-recommended-battery-models) above).
+
+**4. Tools**
+
+* Soldering iron and solder (or crimp/screw connectors if you don't solder)
+* Heat-shrink tubing or electrical tape
+* Multimeter (a cheap one is fine) — **required** for the polarity check
+
+</details>
+
+<details>
+<summary><b>Step 2. How to connect the batteries in parallel (only for Option B)</b></summary>
+
+<br>
+
+**Parallel** means: all plus contacts are joined together, and all minus contacts are joined together. The voltage stays **3.7 V**, the battery just lasts longer.
+
+1. Look at the holder. Each slot has a **`+`** and a **`−`** mark.
+2. Connect **`+` of slot 1** to **`+` of slot 2** with a short wire.
+3. Connect **`−` of slot 1** to **`−` of slot 2** with a short wire.
+4. Solder the **red wire** of your connector to the `+` side.  
+   Solder the **black wire** of your connector to the `−` side.
+
+```
+ Slot 1:  [ + ]=======[ - ]
+            |           |
+ Slot 2:  [ + ]=======[ - ]
+            |           |
+          RED (+)    BLACK (-)
+            \           /
+             CONNECTOR
+```
+
+> ⚠️ **Never connect `+` of one slot to `−` of the other slot.** This is a series connection (7.4 V) and it will burn the product.
+
+</details>
+
+<details>
+<summary><b>Step 3. How to connect the connector (Option A and B)</b></summary>
+
+<br>
+
+1. **Red wire = plus (`+`)**, **black wire = minus (`−`)**. Always.
+2. Connect the red wire of the holder to the red wire of the connector, black to black.
+3. Solder (or crimp) the wires firmly.
+4. Cover every joint with heat-shrink or electrical tape. Bare wires must **not** touch each other.
+
+</details>
+
+<details>
+<summary><b>Step 4. Check the polarity BEFORE connecting to the product (very important!)</b></summary>
+
+<br>
+
+Do this check **every time** you make or repair a battery box.
+
+1. Put a **charged** battery (or batteries) into the new holder.
+2. Set the multimeter to **DC voltage, 20 V range** (see [How to Check the Charge](#how-to-check-the-charge-of-an-18650-battery) above).
+3. Put the **red probe** on the pin of the new connector that must be **plus**, and the **black probe** on the pin that must be **minus**.
+4. Look at the screen:
+
+| Multimeter shows | What it means | What to do |
+|---|---|---|
+| **3.7 – 4.2 V** (no minus sign) | ✅ Polarity is correct | Go to step 5 |
+| **−3.7 … −4.2 V** (with a minus sign) | ❌ Plus and minus are swapped | Swap the wires, check again |
+| **7 V or more** | ❌ Batteries are connected in series | Rewire in parallel (Step 2), check again |
+| **0 V** or nothing | ❌ No contact / battery is empty | Check soldering and battery charge |
+
+5. Now check the **connector on the product**: make sure its plus pin will meet the plus pin of your new box. If you still have an old original battery box — compare the wire colors with it.
+6. Only after all checks — plug the box into the product.
+
+</details>
+
+<details>
+<summary><b>Step 5. Final checklist</b></summary>
+
+<br>
+
+- [ ] Only 3.7 V: single-slot holder, or batteries connected **in parallel**
+- [ ] Red = plus, black = minus
+- [ ] All joints are insulated
+- [ ] The multimeter shows **+3.7…4.2 V** on the new connector
+- [ ] The plus pin of the box meets the plus pin of the product
+
+**Not sure? Don't connect.** Send us a photo of your new box and of the connector on the product before you plug it in — we will check it for free.
+
+</details>
