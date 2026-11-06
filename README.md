@@ -24,6 +24,10 @@ Before installation, visually inspect the battery for any signs of damage.
 * Presence of dents on the battery body.
 * Damage to the insulation, especially near the positive pad.
 
+**Keep your batteries in good condition.** Handle them with care and don't use batteries with a peeled, cracked or broken wrap (the plastic film around the battery). Damaged insulation can cause a short circuit and damage your product. Below is a "good" example of such batteries: if yours look like this, please replace them.
+
+![Damaged battery wrap - replace such batteries](damaged_wrap.jpg)
+
 ### ➤ Step 3: Install the Battery
 Install the battery into the holder, ensuring you observe the correct polarity (`+` into `+`, `-` into `-`).
 
